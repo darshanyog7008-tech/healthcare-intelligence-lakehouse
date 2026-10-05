@@ -1,0 +1,4 @@
+# Databricks/Spark runtime is supplied by the Databricks environment.
+# Airflow orchestration dependencies:
+apache-airflow
+apache-airflow-providers-databricks
